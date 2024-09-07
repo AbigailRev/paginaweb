@@ -179,7 +179,8 @@ projects:
     assignments:
       - title: Gestion de Recursos
         link: "#hook"
-        tagline: "Utilizar un programa para facilitar esta tarea al proporcionar herramientas para planificación, seguimiento y análisis.
+        tagline: "Es una herramienta que facilita estas tareas, ofreciendo funciones para planificación, seguimiento y análisis de recursos."
+
     #  - title: DevStudio
      #   link: "#"
      #   tagline: "A responsive website template designed to help web developers/designers market their services."
@@ -240,12 +241,12 @@ publications:
 skills:
     title: Habilidades
 
-  toolset:
-   - name: Python & Django
-     level: 98%
+#    toolset:
+ #     - name: Python & Django
+  #      level: 98%
 
-   - name: Javascript & jQuery
-     level: 98%
+ #     - name: Javascript & jQuery
+  #      level: 98%
 
  #     - name: Angular
   #      level: 98%
