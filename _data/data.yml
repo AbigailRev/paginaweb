@@ -240,9 +240,9 @@ publications:
 skills:
     title: Habilidades
 
- toolset:
- - name: Python & Django
-   level: 98%
+#    toolset:
+ #     - name: Python & Django
+  #      level: 98%
 
  #     - name: Javascript & jQuery
   #      level: 98%
