@@ -90,8 +90,7 @@ education:
 
 experiences:
     title: Experiencias
-    info: 
-     details: |
+    summary: |
           Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
           Habilidades prácticas en lenguajes de programación como Java, Python y C++.
           Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
