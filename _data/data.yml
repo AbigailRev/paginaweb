@@ -16,15 +16,15 @@ sidebar:
     email: rousfuentes9@gmail.com
     phone: 64763241
     timezone: America/La_Paz # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
+    citizenship: Boliviana
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     #linkedin: alandoe
     #xing: alandoe
-    #github: jekyll
+    github: AbigailRev
     #telegram: # add your nickname without '@' sign
     #gitlab:
    # bitbucket:
-    #twitter: '@jekyllrb'
+    twitter: '@rousf'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
    # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -56,7 +56,7 @@ sidebar:
 
 
 career-profile:
-    title: Perfil de Carrera
+    title: Perfil
     summary: 
      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
      # adipiscing elit. You can [download this free resume/CV template here]().
@@ -70,10 +70,8 @@ education:
       - degree: Universitario
         university: Facultad Nacional de Ingenieria
         #time: 2011 - 2012
-        details: |
-          Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
-          Habilidades prácticas en lenguajes de programación como Java, Python y C++.
-          Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
+        details: | Ingenieria Sistemas e Informatica 
+          
            
       #degree: BSc in Applied Mathematics
        # university: Bristol University
@@ -89,7 +87,10 @@ education:
 
 experiences:
     title: Experiencias
-    info:
+    info: |
+          Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
+          Habilidades prácticas en lenguajes de programación como Java, Python y C++.
+          Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
      # - role: Lead Developer
      #   time: 2015 - Present
      #   company: Startup Hubs, San Francisco
@@ -128,9 +129,9 @@ experiences:
       #      - Bullet point
       #      - Bullet point
 
-certifications:
-      title: Certificaciones
-      list:
+#certifications:
+ #     title: Certificaciones
+  #    list:
       #  - name: CV Builder
        #   start: 2020
        #   end: 2021
@@ -176,11 +177,11 @@ projects:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: 
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    #  - title: DevStudio
+     - title: 
      #   link: "#"
      #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -215,8 +216,8 @@ projects:
       #  link: "#"
       #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publicaciones
+#publications:
+  #  title: Publicaciones
    # intro: |
      # You can list your publications in this section. Lorem ipsum dolor sit
      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -240,11 +241,11 @@ publications:
 skills:
     title: Habilidades
 
-#    toolset:
- #     - name: Python & Django
+  toolset:
+    - name: Python & C++
   #      level: 98%
 
- #     - name: Javascript & jQuery
+     - name: Javascript & Java
   #      level: 98%
 
  #     - name: Angular
