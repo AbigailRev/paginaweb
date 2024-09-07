@@ -52,11 +52,14 @@ sidebar:
         - item: Deporte 
           link:
 
+        - item: Lectura 
+          link:
 
-career profile:
+
+career-profile:
     title: Carrera Profesional
     summary: 
-      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
      # adipiscing elit. You can [download this free resume/CV template here]().
       #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -238,24 +241,24 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#    toolset:
+ #     - name: Python & Django
+  #      level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+ #     - name: Javascript & jQuery
+  #      level: 98%
 
-      - name: Angular
-        level: 98%
+ #     - name: Angular
+  #      level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+ #     - name: HTML5 & CSS
+ #       level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+  #    - name: Ruby on Rails
+   #     level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    #  - name: Sketch & Photoshop
+     #   level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Revollo &copy; 2024
