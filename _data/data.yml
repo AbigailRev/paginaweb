@@ -56,10 +56,13 @@ sidebar:
 
 
 career-profile:
-    title: Perfil de Carrera
-    summary: 
-     # Summarise your career here lorem ipsum dolor sit amet, consectetuer
-     # adipiscing elit. You can [download this free resume/CV template here]().
+    title: Perfil
+    summary: |
+        Soy una estudiante de Ingeniería Informática, aprendi mucho sobre desarrollo de software, 
+        análisis de sistemas y cómo resolver problemas técnicos. 
+        Me encanta la tecnología y siempre estoy buscando maneras de aprender más.
+        Mi objetivo es ayudar en lo que pueda y colaborar en cualquier tarea que se necesite. 
+        Estoy dispuesto a aportar mis conocimientos y mi energía para apoyar al equipo y contribuir al éxito de los proyectos.
       #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       #Donec quam felis, ultricies nec, pellentesque eu.
