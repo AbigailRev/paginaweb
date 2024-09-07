@@ -24,7 +24,7 @@ sidebar:
     #telegram: # add your nickname without '@' sign
     #gitlab:
    # bitbucket:
-    twitter: '@rousf'
+   # twitter: '@'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
    # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -70,7 +70,7 @@ education:
       - degree: Universitario
         university: Facultad Nacional de Ingenieria
         #time: 2011 - 2012
-        details: | Ingenieria Sistemas e Informatica 
+        details: | 
           
            
       #degree: BSc in Applied Mathematics
