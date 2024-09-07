@@ -172,7 +172,7 @@ experiences:
 
 projects:
     title: Proyectos
-    intro: 
+    intro: >
 #      You can list your side projects in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -241,12 +241,12 @@ publications:
 skills:
     title: Habilidades
 
-  toolset:
-   - name: Python & Django
-       level: 98%
+#    toolset:
+ #     - name: Python & Django
+  #      level: 98%
 
-    - name: Javascript & jQuery
-        level: 98%
+ #     - name: Javascript & jQuery
+  #      level: 98%
 
  #     - name: Angular
   #      level: 98%
