@@ -33,8 +33,8 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    idiomas:
-      title: Languages
+    languajes:
+      title: IDIOMAS
       info:
         - idiom: Español
           level: Native
@@ -43,8 +43,8 @@ sidebar:
           level: Professional
 
 
-    intereses:
-      title: Interests
+    interests:
+      title: INTERESES
       info:
         - item: Animales 
           link:
@@ -53,22 +53,22 @@ sidebar:
           link:
 
 
-perfil de carrera:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-educacion:
+career profile:
+    title: Carrera Profesional
+    summary: 
+      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
+     # adipiscing elit. You can [download this free resume/CV template here]().
+      #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      #Donec quam felis, ultricies nec, pellentesque eu.
+      #Second paragraph if required.
+education:
     title: Educacion
     info:
       - degree: Universitario
         university: Facultad Nacional de Ingenieria
         #time: 2011 - 2012
-        details: |
+        details: 
           Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
           Habilidades prácticas en lenguajes de programación como Java, Python y C++.
           Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
