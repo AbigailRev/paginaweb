@@ -3,67 +3,79 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
+    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Abigail Revollo Fuentes
+    name: Abigail Revollo Fuentes 
     #tagline: Full Stack Developer
-    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rousfuentes9@gmail.com
     phone: 64763241
-    timezone: America/La_Paz
-    citizenship: Boliviana
-    #website: blog.webjeda.com #do not add http://
+    timezone: America/La_Paz # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship:
+    #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     #linkedin: alandoe
     #xing: alandoe
-    #github: sharu725
+    #github: jekyll
     #telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    #twitter: '@webjeda'
+    #twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    mastodon:  # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Idiomas
+    languajes:
+      title: IDIOMAS
       info:
         - idiom: Español
           level: Native
 
         - idiom: Ingles
-         level: Professional
+          level: Professional
 
-       # - idiom: Spanish
-         # level: Professional
 
     interests:
-      title: Intereses
+      title: INTERESES
       info:
-        - item: Animales
+        - item: Animales 
           link:
 
-        - item: Lectura
+        - item: Deporte 
           link:
 
-        - item: Deporte
-          link:
 
-career-profile:
-    title: Perfil de carrera
+career profile:
+    title: Carrera Profesional
     summary: 
-      
+      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
+     # adipiscing elit. You can [download this free resume/CV template here]().
+      #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      #Donec quam felis, ultricies nec, pellentesque eu.
+      #Second paragraph if required.
 education:
     title: Educacion
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Universitario
+        university: Facultad Nacional de Ingenieria
+        #time: 2011 - 2012
+        details: 
+          Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
+          Habilidades prácticas en lenguajes de programación como Java, Python y C++.
+          Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
+           
+      #degree: BSc in Applied Mathematics
+       # university: Bristol University
+        #time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,17 +84,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -135,19 +137,19 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
         - name: Git learning
           start: 2019
           end:
@@ -156,15 +158,15 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
+            Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-        
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
 projects:
     title: Projects
     intro: >
