@@ -90,14 +90,17 @@ education:
 
 experiences:
     title: Experiencias
-    info:
+    info: 
+     details: |
+          Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
+          Habilidades prácticas en lenguajes de programación como Java, Python y C++.
+          Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
+    
      # - role: Lead Developer
      #   time: 2015 - Present
      #   company: Startup Hubs, San Francisco
-     #   details: |
-      Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
-          Habilidades prácticas en lenguajes de programación como Java, Python y C++.
-          Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker. 
+       
+    
        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
         #  pellentesque eu, pretium quis, sem. Nulla consequat massa quis
         #  enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
