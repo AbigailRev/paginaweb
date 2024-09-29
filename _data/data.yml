@@ -60,11 +60,11 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-        Soy estudiante de Ingeniería Sistemas e Informática, tengo 
-        conocimiento sobre desarrollo de software,análisis de 
+        Soy estudiante de Ingeniería Sistemas e Informática,con el especial
+        interes en el desarrollo de software,análisis de 
         sistemas y cómo resolver problemas técnicos. 
         
-        Siempre estoy buscando maneras de aprender más.
+    
         
 education:
     title: Educacion
@@ -193,7 +193,7 @@ projects:
         link: "#hook"
         tagline: "Es una herramienta que facilita estas tareas, ofreciendo funciones para planificación, seguimiento y análisis de recursos."
 
-    #  - title: Tempo
+    # - title: Gestion de Biblioteca 
     #    link: "#"
      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
