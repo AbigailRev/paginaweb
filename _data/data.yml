@@ -93,13 +93,13 @@ education:
 experiences:
     title: Experiencias
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 
+        #time: 
+        #company: 
         details: |
-          Describe your role here lorem i Avance significativo en el 
-          programa de estudios con enfoque en ingenieria de software 
-          y gestion de bases de datos.Habilidades practicas en lenguajes
+          Avance significativo en el programa de estudios con enfoque 
+          en ingenieria de software y gestion de bases de datos.
+          Habilidades practicas en lenguajes
           de programacion como Java, Python y C++.
           Experiencia en el uso de herramientas y entornos de desarrollo 
           como Git y Docker.
