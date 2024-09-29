@@ -57,13 +57,13 @@ sidebar:
 
 career-profile:
     title: Perfil
-    summary: |
-        Soy una estudiante de Ingeniería Sistemas e Informática, aprendi mucho sobre desarrollo de software, 
-        análisis de sistemas y cómo resolver problemas técnicos. 
+    #summary: |
+        # Soy una estudiante de Ingeniería Sistemas e Informática, aprendi mucho sobre desarrollo de software, 
+        #análisis de sistemas y cómo resolver problemas técnicos. 
         
-        Me encanta la tecnología y siempre estoy buscando maneras de aprender más.
-        Mi objetivo es ayudar en lo que pueda y colaborar en cualquier tarea que se necesite. 
-        Estoy dispuesto a aportar mis conocimientos y mi energía para apoyar al equipo y contribuir al éxito de los proyectos.
+      #  Me encanta la tecnología y siempre estoy buscando maneras de aprender más.
+      #  Mi objetivo es ayudar en lo que pueda y colaborar en cualquier tarea que se necesite. 
+       # Estoy dispuesto a aportar mis conocimientos y mi energía para apoyar al equipo y contribuir al éxito de los proyectos.
       
 education:
     title: Educacion
