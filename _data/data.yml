@@ -13,15 +13,15 @@ sidebar:
     avatar: foto.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: rousfuentes9@gmail.com
+    email: abigail.revollo@sistemas.edu.bo
     phone: 64763241
     timezone: America/La_Paz # Enter 
     #citizenship:
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    #linkedin: alandoe
+    linkedin: rousf
     #xing: alandoe
-    #github: jekyll
-    instagram:  add your nickname without '@rousf68' sign
+    github: abigailrev
+    #instagram:  add your nickname without '@rousf68' sign
     #gitlab:
    # bitbucket:
     twitter: '@rousf683'
@@ -68,8 +68,10 @@ career-profile:
 education:
     title: Educacion
     info:
-      - degree: Universitario
+      - degree: Universidad
         university: Facultad Nacional de Ingenieria
+        - degree: Colegio
+        university: Evangelico Filadelfia
         #time: 2011 - 2012
         details: |
           Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
@@ -243,12 +245,12 @@ publications:
 skills:
     title: Habilidades
 
-#    toolset:
- #     - name: Python & Django
-  #      level: 98%
+  toolset:
+   - name: Python & C
+       level: 58%
 
- #     - name: Javascript & jQuery
-  #      level: 98%
+   - name: Javascript 
+   level: 78%
 
  #     - name: Angular
   #      level: 98%
