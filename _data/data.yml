@@ -10,10 +10,10 @@ sidebar:
     # Profile information
     name: Abigail Rous Revollo Fuentes 
     #tagline: Full Stack Developer
-    avatar: foto.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: perfil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: rousfuentes9@gmail.com
+    email: abigail.revollo@sistemas.edu.bo
     phone: 64763241
     timezone: America/La_Paz # Enter 
     #citizenship:
