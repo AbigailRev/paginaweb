@@ -60,13 +60,11 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-        Soy una estudiante de Ingeniería Sistemas e Informática, aprendi mucho sobre desarrollo de software, 
+        Soy estudiante de Ingeniería Sistemas e Informática, tengo conocimiento sobre desarrollo de software, 
         análisis de sistemas y cómo resolver problemas técnicos. 
         
         Siempre estoy buscando maneras de aprender más.
-        Mi objetivo es ayudar en lo que pueda y colaborar en cualquier tarea que se necesite. 
-        Estoy dispuesto a aportar mis conocimientos y mi energía para apoyar al equipo y contribuir al éxito de los proyectos.
-      
+        
 education:
     title: Educacion
     info:
@@ -99,8 +97,8 @@ experiences:
         details: |
           Avance significativo en el programa de estudios con enfoque 
           en ingenieria de software y gestion de bases de datos.
-          Habilidades practicas en lenguajes
-          de programacion como Java, Python y C++.
+          Habilidades practicas en lenguajes de programacion como 
+          Java, Python y C++.
           Experiencia en el uso de herramientas y entornos de desarrollo 
           como Git y Docker.
     
@@ -194,9 +192,9 @@ projects:
         link: "#hook"
         tagline: "Es una herramienta que facilita estas tareas, ofreciendo funciones para planificación, seguimiento y análisis de recursos."
 
-    #  - title: DevStudio
-     #   link: "#"
-     #   tagline: "A responsive website template designed to help web developers/designers market their services."
+     - title: DevStudio
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
 
     #  - title: Tempo
     #    link: "#"
@@ -268,7 +266,7 @@ skills:
         level: 35%
         
       - name: PHOTOSHOP
-        level: 75%
+        level: 65%
 
       
 
