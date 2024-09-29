@@ -13,14 +13,14 @@ sidebar:
     avatar: foto.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: abigail.revollo@sistemas.edu.bo
+    email: rousfuentes9@gmail.com
     phone: 64763241
     timezone: America/La_Paz # Enter 
     #citizenship:
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     #linkedin: alandoe
     #xing: alandoe
-    github: abigailrev
+    #github: jekyll
     instagram:  add your nickname without '@rousf68' sign
     #gitlab:
    # bitbucket:
@@ -68,7 +68,7 @@ career-profile:
 education:
     title: Educacion
     info:
-      - degree: Universidad
+      - degree: Universitario
         university: Facultad Nacional de Ingenieria
         #time: 2011 - 2012
         details: |
@@ -243,7 +243,7 @@ publications:
 skills:
     title: Habilidades
 
-  toolset:
+#    toolset:
  #     - name: Python & Django
   #      level: 98%
 
