@@ -93,9 +93,13 @@ education:
 experiences:
     title: Experiencias
     summary: |
-          Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
-          Habilidades prácticas en lenguajes de programación como Java, Python y C++.
-          Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
+        Avance significativo en el programa de estudios 
+        con enfoque en ingeniería de software y gestión de bases de datos.
+        
+        Habilidades practicas en lenguajes de programación como Java, Python 
+        y C++.
+        Experiencia en el uso de herramientas y entornos de desarrollo como 
+        Git y Docker.
     
      # - role: Lead Developer
      #   time: 2015 - Present
