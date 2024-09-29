@@ -45,15 +45,17 @@ sidebar:
     interests:
       title: INTERESES
       info:
-        - item: Animales 
-          link:
-
-        - item: Deporte 
+        - item: Deporte  
           link:
 
         - item: Lectura 
           link:
 
+        - item: Tecnologia
+          link:
+          
+        - item: Viajar
+          link:
 
 career-profile:
     title: Perfil
