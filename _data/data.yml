@@ -18,10 +18,10 @@ sidebar:
     timezone: America/La_Paz # Enter 
     #citizenship:
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: rousf
+    #linkedin: alandoe
     #xing: alandoe
     github: abigailrev
-    #instagram:  add your nickname without '@rousf68' sign
+    instagram:  add your nickname without '@rousf68' sign
     #gitlab:
    # bitbucket:
     twitter: '@rousf683'
@@ -70,8 +70,6 @@ education:
     info:
       - degree: Universidad
         university: Facultad Nacional de Ingenieria
-        - degree: Colegio
-        university: Evangelico Filadelfia
         #time: 2011 - 2012
         details: |
           Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
@@ -246,11 +244,11 @@ skills:
     title: Habilidades
 
   toolset:
-   - name: Python & C
-       level: 58%
+ #     - name: Python & Django
+  #      level: 98%
 
-   - name: Javascript 
-   level: 78%
+ #     - name: Javascript & jQuery
+  #      level: 98%
 
  #     - name: Angular
   #      level: 98%
