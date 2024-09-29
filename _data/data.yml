@@ -89,11 +89,16 @@ education:
        #     - Bullet point
 
 experiences:
-    title: Experiencias
+title: Experiencias
     summary: |
           Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
           Habilidades prácticas en lenguajes de programación como Java, Python y C++.
           Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
+          Actualmente soy estudiante universitaria enfocada en el aprendizaje de lenguajes de programación como Java, C++ y C#. 
+          Aunque no tengo experiencia laboral formal, tengo un sólido entendimiento de estos lenguajes y he trabajado en proyectos 
+          académicos que me han permitido desarrollar habilidades clave
+          Estoy altamente motivada para aprender y mejorar mis conocimientos, y estoy dispuesta a colaborar en proyectos 
+          donde pueda aportar con mis habilidades, aprender de profesionales con más experiencia y contribuir al éxito del equipo.
     
      # - role: Lead Developer
      #   time: 2015 - Present
