@@ -72,6 +72,8 @@ education:
     info:
       - degree: Universitario
         university: Facultad Nacional de Ingenieria
+      - degree: Universitario
+        university: Facultad Nacional de Ingenieria
         #time: 2011 - 2012
         details: |
           Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
