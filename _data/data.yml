@@ -60,8 +60,9 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-        Soy estudiante de Ingeniería Sistemas e Informática, tengo conocimiento sobre desarrollo de software, 
-        análisis de sistemas y cómo resolver problemas técnicos. 
+        Soy estudiante de Ingeniería Sistemas e Informática, tengo 
+        conocimiento sobre desarrollo de software,análisis de 
+        sistemas y cómo resolver problemas técnicos. 
         
         Siempre estoy buscando maneras de aprender más.
         
@@ -191,10 +192,6 @@ projects:
       - title: Gestion de Recursos
         link: "#hook"
         tagline: "Es una herramienta que facilita estas tareas, ofreciendo funciones para planificación, seguimiento y análisis de recursos."
-
-     - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
 
     #  - title: Tempo
     #    link: "#"
