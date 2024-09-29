@@ -70,10 +70,10 @@ career-profile:
 education:
     title: Educacion
     info:
-      - degree: Universitario
+      - degree: Universidad
         university: Facultad Nacional de Ingenieria
-      - degree: Universitario
-        university: Facultad Nacional de Ingenieria
+      - degree: Colegio
+        university: Evangelico Filadlefia
         #time: 2011 - 2012
         details: |
           Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
