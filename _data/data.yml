@@ -75,9 +75,10 @@ education:
       - degree: Colegio
         university: Evangelico Filadlefia
         #time: 2011 - 2012
-        details: |Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
-          Habilidades prácticas en lenguajes de programación como Java, Python y C++.
-          Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
+        details: |
+        Avance significativo en el programa de estudios con enfoque en ingeniería de software y gestión de bases de datos.
+        Habilidades prácticas en lenguajes de programación como Java, Python y C++.
+        Experiencia en el uso de herramientas y entornos de desarrollo como Git y Docker.
            
       #degree: BSc in Applied Mathematics
        # university: Bristol University
