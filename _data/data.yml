@@ -261,10 +261,13 @@ skills:
       - name: Javascript 
         level: 45%
 
-      - name: C
+      - name: C++
         level: 78%
 
       - name: HTML
+        level: 65%
+        
+      - name: PHOTOSHOP
         level: 65%
 
       
