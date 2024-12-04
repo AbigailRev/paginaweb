@@ -22,6 +22,17 @@ sidebar:
     #xing: alandoe
     github: abigailrev
     instagram:  add your nickname without '@rousf68' sign
+    people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
     #gitlab:
    # bitbucket:
     twitter: '@rousfuentes9'
