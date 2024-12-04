@@ -60,9 +60,12 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-        Soy estudiante de Ingeniería Sistemas e Informática,con el especial
-        interes en el apredizaje en el desarrollo de software,análisis de 
-        sistemas y cómo resolver problemas técnicos. 
+        Soy estudiante de tercer año de Ingeniería en Sistemas mencion Empresarial, 
+        con conocimientos en costos, contabilidad, diseño organizacional y programación (C++, Java, Python).
+        Me apasiona la gestión ágil de proyectos, especialmente los roles de Product Owner y Diseñadora UX/UI. 
+        Combino mi formación empresarial con habilidades técnicas y creativas para contribuir en equipos multidisciplinarios,
+        apportando un valor a equipos ágiles colaborando en la creación y gestión de productos que se alineen con las }
+        necesidades del negocio y las expectativas de los usuarios.
         
     
         
@@ -73,21 +76,8 @@ education:
         university: Facultad Nacional de Ingenieria
       - degree: Colegio
         university: Evangelico Filadelfia
-        time: 2014 - 2019
+        #time: 2014 - 2019
         #details: |
-
-           
-      degree: BSc in Applied Mathematics
-       university: Bristol University
-        time: 2021 - 2026
-       details: |
-       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-       #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-       #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-       #   pretium quis, sem.
-       #     - Bullet point
-       #     - Bullet point
 
 experiences:
     title: Experiencias
