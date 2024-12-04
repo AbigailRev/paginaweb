@@ -22,18 +22,7 @@ sidebar:
     #xing: alandoe
     github: abigailrev
     instagram:  add your nickname without '@rousf68' sign
-    people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-    #gitlab:
+
    # bitbucket:
     twitter: '@rousfuentes9'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -72,7 +61,7 @@ career-profile:
     title: Perfil
     summary: |
         Soy estudiante de Ingeniería Sistemas e Informática,con el especial
-        interes en el desarrollo de software,análisis de 
+        interes en el apredizaje en el desarrollo de software,análisis de 
         sistemas y cómo resolver problemas técnicos. 
         
     
@@ -83,15 +72,15 @@ education:
       - degree: Universidad
         university: Facultad Nacional de Ingenieria
       - degree: Colegio
-        university: Evangelico Filadlefia
-        #time: 2011 - 2012
+        university: Evangelico Filadelfia
+        time: 2014 - 2019
         #details: |
 
            
-      #degree: BSc in Applied Mathematics
-       # university: Bristol University
-        #time: 2007 - 2011
-       # details: |
+      degree: BSc in Applied Mathematics
+       university: Bristol University
+        time: 2021 - 2026
+       details: |
        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
