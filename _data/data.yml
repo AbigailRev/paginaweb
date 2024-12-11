@@ -73,11 +73,11 @@ career-profile:
 education:
     title: Educacion
     info:
-      - degree: Universidad
+      - degree: UNIVERSIDAD
         university: Facultad Nacional de Ingenieria
-      - degree: Colegio
-        university: Evangelico Filadelfia
-        #time: 2014 - 2019
+      - degree: EDUACION SECUNDARIA
+        university: Unidad Educativa Evangelico Filadelfia
+        time: 2014 - 2019
         #details: |
 
 experiences:
