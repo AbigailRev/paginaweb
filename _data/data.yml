@@ -185,7 +185,7 @@ projects:
         tagline: "Es una herramienta que facilita estas tareas, ofreciendo funciones para planificación, seguimiento y análisis de recursos."
 
       - title: JUEGO EN 2D  
-        link: "https://github.com/dungdna2000/gamedev-intro-tutorials.git"
+        link: https://github.com/dungdna2000/gamedev-intro-tutorials.git
         tagline: " sistema para la gestion de libros en una biblioteca, utilizando java y MySQL. El sistema permite el registro de prestamos y devoluciones."
 
      # - title: Atom
