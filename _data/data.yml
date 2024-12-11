@@ -182,7 +182,7 @@ projects:
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: PAGINA DE VENTAS
-        link: "#hook"
+        link: https://github.com/AbigailRev/Compras.git
         tagline: "Es una herramienta que facilita estas tareas, ofreciendo funciones para planificación, seguimiento y análisis de recursos."
 
       - title: JUEGO EN 2D  
