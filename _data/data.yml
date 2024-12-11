@@ -18,7 +18,7 @@ sidebar:
     timezone: America/La_Paz # Enter 
     #citizenship:
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: www.linkedin.com/in/abigail-revollo-7a2766340
+    linkedin: https://www.linkedin.com/in/abigail-revollo-7a2766340/
 
     #xing: alandoe
     github: abigailrev
@@ -241,20 +241,26 @@ skills:
     title: HABILIDADES Y COMPETENCIAS
 
     toolset:
-      - name: Python 
-        level: 48%
-
-      - name: Javascript 
-        level: 45%
-
-      - name: C++
-        level: 88%
-
-      - name: HTML
-        level: 35%
-        
       - name: PHOTOSHOP
-        level: 65%
+        level: 70%
+
+      - name: C++ 
+        level: 75%
+
+      - name: JAVA
+        level: 52%
+
+      - name: HERRAMIENTAS DE OFFICE
+        level: 80%
+        
+      - name: CANVA
+        level: 45%
+                
+      - name: METODOLOGIA AGILES SCRUM
+        level: 35%
+                
+      - name: HASKELL
+        level: 45%
 
       
 
