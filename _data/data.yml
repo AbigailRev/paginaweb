@@ -181,13 +181,13 @@ projects:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Gestion de Recursos
+      - title: PAGINA DE VENTAS
         link: "#hook"
         tagline: "Es una herramienta que facilita estas tareas, ofreciendo funciones para planificación, seguimiento y análisis de recursos."
 
       - title: JUEGO EN 2D  
         link: https://github.com/dungdna2000/gamedev-intro-tutorials.git
-        tagline: " sistema para la gestion de libros en una biblioteca, utilizando java y MySQL. El sistema permite el registro de prestamos y devoluciones."
+        tagline: " Creacion de un juego interactivo realizado con utilizando C++ y DirectX "
 
      # - title: Atom
       #  link: "#"
