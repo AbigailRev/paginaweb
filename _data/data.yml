@@ -32,7 +32,7 @@ sidebar:
     #mastodon:  # Please include your full Mastodon link here.
     #hackerrank: # Please provide your HackerRank username.
     #leetcode: # Please provide your LeetCode username.
-    pdf:  paginaweb/assets/archivos/Hoja de vida.pdf
+    pdf:  assets/archivos/Hoja de vida.pdf
     languajes:
       title: IDIOMAS
       info:
